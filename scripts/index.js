@@ -6,7 +6,7 @@ var audio = new Audio("bai1.mp3");
 var audio1 = new Audio("bai2.mp3")
 
 const config = {
-    birthdate: 'Sep 05, 2021',
+    birthdate: 'Sep 05, 2022',
     name: 'Thảo Vy - Bé Bê'
 };
 
