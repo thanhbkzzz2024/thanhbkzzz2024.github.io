@@ -7,7 +7,7 @@ var audio1 = new Audio("bai2.mp3")
 
 const config = {
     birthdate: 'Sep 05, 2022',
-    name: 'Thảo Vy - Bé Bê'
+    name: 'Thảo Vy - Bé Bê '
 };
 
 document.addEventListener('click', musicPlay);
